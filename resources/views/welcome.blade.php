@@ -1457,11 +1457,11 @@
             </div>
         </a>
 
-        <a href="https://linkedin.com/in/asadshoaib" target="_blank" rel="noopener" class="contact-card reveal reveal-delay-2">
+        <a href="https://www.linkedin.com/in/asad-shoaib-103243401/" target="_blank" rel="noopener" class="contact-card reveal reveal-delay-2">
             <div class="contact-icon">💼</div>
             <div>
                 <div class="contact-label">LinkedIn</div>
-                <div class="contact-value">linkedin.com/in/asadshoaib</div>
+                <div class="contact-value">linkedin.com/in/asad-shoaib</div>
             </div>
         </a>
 
