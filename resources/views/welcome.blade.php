@@ -7,7 +7,7 @@
     <meta name="description" content="Software Engineer with 3+ years of experience in full-stack web development using PHP, Laravel, React, JavaScript, and TypeScript.">
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <meta name="ask-url" content="{{ route('resume.ask') }}">
+    <meta name="ask-url" content="{{ url('/resume/ask') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
 

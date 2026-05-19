@@ -3,7 +3,8 @@
     "allow": [
       "Bash(Get-ChildItem \"D:\\\\xampp\\\\htdocs\\\\Resume\")",
       "Bash(Get-ChildItem -Path \"D:\\\\xampp\\\\htdocs\" -Directory)",
-      "Bash(Select-Object Name)"
+      "Bash(Select-Object Name)",
+      "WebFetch(domain:my-resume-production-2640.up.railway.app)"
     ]
   }
 }
