@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem \"D:\\\\xampp\\\\htdocs\\\\Resume\")",
+      "Bash(Get-ChildItem -Path \"D:\\\\xampp\\\\htdocs\" -Directory)",
+      "Bash(Select-Object Name)"
+    ]
+  }
+}
