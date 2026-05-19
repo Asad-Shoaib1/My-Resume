@@ -1592,8 +1592,7 @@
         errorBox.classList.add('hidden');
 
         try {
-            const askUrl = document.querySelector('meta[name="ask-url"]').content;
-            const res = await fetch(askUrl, {
+            const res = await fetch('{{ url("/resume/ask") }}', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
