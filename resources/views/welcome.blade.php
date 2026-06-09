@@ -971,7 +971,7 @@
 
 <!-- Navbar -->
 <nav id="navbar">
-    <a href="#home" class="nav-logo">asad.dev</a>
+    <a href="#home" class="nav-logo">Usoman Khalid</a>
     <ul class="nav-links">
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
@@ -1001,13 +1001,13 @@
     <div class="hero-content">
         <div class="hero-badge">Available for opportunities</div>
         <h1>
-            Hi, I'm <span class="gradient-text">Asad Shoaib</span>
+            Hi, I'm <span class="gradient-text">Usman Khalid</span>
         </h1>
         <p class="hero-subtitle">
             <span class="typing-text" id="typingText"></span><span style="color:var(--accent);animation:blink 1s infinite;">|</span>
         </p>
         <p class="hero-desc">
-            Software Engineer with 3+ years of experience building scalable full-stack applications across logistics, immigration, real estate, and education industries.
+           Shopify Developer with 3+ years of experience building custom themes, apps, and integrations. I help brands create seamless ecommerce experiences that drive growth and customer loyalty. Let's build something great together!
         </p>
         <div class="hero-actions">
             <a href="#projects" class="btn btn-primary">
@@ -1037,11 +1037,11 @@
         <div class="stat-card"><div class="stat-number">3+</div><div class="stat-label">Years Experience</div></div>
         <div class="stat-card"><div class="stat-number">10+</div><div class="stat-label">Projects Delivered</div></div>
         <div class="stat-card"><div class="stat-number">5+</div><div class="stat-label">Industries Served</div></div>
-        <div class="stat-card"><div class="stat-number">4</div><div class="stat-label">Companies</div></div>
+        <div class="stat-card"><div class="stat-number">2</div><div class="stat-label">Companies</div></div>
     </div>
 
     <div class="reveal" style="color: var(--muted); font-size: 1rem; line-height: 1.9; max-width: 720px;">
-        I'm a full-stack Software Engineer specializing in <strong style="color:var(--text)">PHP, Laravel, React, and TypeScript</strong>. I've shipped production systems ranging from AI-powered immigration platforms to real-time cargo dispatch systems with live tracking and WebSocket-driven notifications. I care deeply about clean architecture, efficient APIs, and end-to-end ownership — from database schema to UI.
+      i am a shopify developer with over 3 years of experience in building custom themes, apps, and integrations. i have a passion for creating seamless ecommerce experiences that drive growth and customer loyalty. i have worked with a diverse range of clients, from startups to established brands, across various industries. my expertise includes liquid templating, front-end development, and third-party API integrations. i am always eager to take on new challenges and collaborate on innovative projects that make a real impact.
     </div>
 </section>
 
@@ -1059,11 +1059,11 @@
                 Languages
             </div>
             <div class="tags">
-                <span class="tag">PHP</span>
-                <span class="tag">JavaScript</span>
-                <span class="tag">TypeScript</span>
-                <span class="tag">HTML5</span>
-                <span class="tag">CSS3</span>
+                <span class="tag">Html</span>
+                <span class="tag">CSS</span>
+                <span class="tag">Liquid</span>
+                <span class="tag">Shopify</span>
+                <span class="tag">Javascript</span>
             </div>
         </div>
 
@@ -1531,8 +1531,8 @@
 
     // Typing effect
     const roles = [
-        'Software Engineer',
-        'Laravel Developer',
+        'Shopify Developer',
+        // 'Laravel Developer',
         'Full-Stack Developer',
         'API Architect',
         'React Developer',

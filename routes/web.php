@@ -7,3 +7,7 @@ Route::get('/', function () {
 });
 
 Route::post('/resume/ask', [App\Http\Controllers\ResumeQaController::class, 'ask'])->name('resume.ask');
+
+Route::get('/usman', function () {
+    return view('usman');
+});
