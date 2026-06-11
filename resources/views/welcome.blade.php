@@ -1037,11 +1037,11 @@
         <div class="stat-card"><div class="stat-number">3+</div><div class="stat-label">Years Experience</div></div>
         <div class="stat-card"><div class="stat-number">10+</div><div class="stat-label">Projects Delivered</div></div>
         <div class="stat-card"><div class="stat-number">5+</div><div class="stat-label">Industries Served</div></div>
-        <div class="stat-card"><div class="stat-number">2</div><div class="stat-label">Companies</div></div>
+        <div class="stat-card"><div class="stat-number">4</div><div class="stat-label">Companies</div></div>
     </div>
 
     <div class="reveal" style="color: var(--muted); font-size: 1rem; line-height: 1.9; max-width: 720px;">
-      i am a shopify developer with over 3 years of experience in building custom themes, apps, and integrations. i have a passion for creating seamless ecommerce experiences that drive growth and customer loyalty. i have worked with a diverse range of clients, from startups to established brands, across various industries. my expertise includes liquid templating, front-end development, and third-party API integrations. i am always eager to take on new challenges and collaborate on innovative projects that make a real impact.
+        I'm a full-stack Software Engineer specializing in <strong style="color:var(--text)">PHP, Laravel, React, and TypeScript</strong>. I've shipped production systems ranging from AI-powered immigration platforms to real-time cargo dispatch systems with live tracking and WebSocket-driven notifications. I care deeply about clean architecture, efficient APIs, and end-to-end ownership — from database schema to deployment.
     </div>
 </section>
 
