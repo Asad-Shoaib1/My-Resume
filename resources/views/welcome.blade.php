@@ -1136,6 +1136,18 @@
                 <span class="tag">Shopify Liquid</span>
             </div>
         </div>
+
+        <div class="skill-card reveal reveal-delay-3">
+            <div class="skill-card-title">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="1" y="3" width="15" height="11" rx="1"/><path d="M16 8h4l3 5v3h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+                DevOps & Infrastructure
+            </div>
+            <div class="tags">
+                <span class="tag">Docker</span>
+                <span class="tag">Git / GitHub</span>
+                <span class="tag">Railway</span>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -1486,6 +1498,14 @@
             <div>
                 <div class="contact-label">Education</div>
                 <div class="contact-value">BSCS — FUUAST 2023</div>
+            </div>
+        </div>
+
+        <a href="https://my-resume-production-2640.up.railway.app" target="_blank" rel="noopener" class="contact-card reveal reveal-delay-2">
+            <div class="contact-icon">🌐</div>
+            <div>
+                <div class="contact-label">Portfolio</div>
+                <div class="contact-value">my-resume-production-2640.up.railway.app</div>
             </div>
         </div>
     </div>
