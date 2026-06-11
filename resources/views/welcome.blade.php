@@ -971,7 +971,7 @@
 
 <!-- Navbar -->
 <nav id="navbar">
-    <a href="#home" class="nav-logo">Usoman Khalid</a>
+    <a href="#home" class="nav-logo">asad.dev</a>
     <ul class="nav-links">
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
@@ -1001,7 +1001,7 @@
     <div class="hero-content">
         <div class="hero-badge">Available for opportunities</div>
         <h1>
-            Hi, I'm <span class="gradient-text">Usman Khalid</span>
+            Hi, I'm <span class="gradient-text">Asad Shoaib</span>
         </h1>
         <p class="hero-subtitle">
             <span class="typing-text" id="typingText"></span><span style="color:var(--accent);animation:blink 1s infinite;">|</span>
