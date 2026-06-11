@@ -1059,11 +1059,11 @@
                 Languages
             </div>
             <div class="tags">
-                <span class="tag">Html</span>
-                <span class="tag">CSS</span>
-                <span class="tag">Liquid</span>
-                <span class="tag">Shopify</span>
-                <span class="tag">Javascript</span>
+                <span class="tag">PHP</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">TypeScript</span>
+                <span class="tag">HTML5</span>
+                <span class="tag">CSS3</span>
             </div>
         </div>
 
@@ -1079,13 +1079,14 @@
                 <span class="tag">Bootstrap</span>
                 <span class="tag">Mantine UI</span>
                 <span class="tag">jQuery</span>
+                <span class="tag">AJAX</span>
             </div>
         </div>
 
         <div class="skill-card reveal reveal-delay-2">
             <div class="skill-card-title">
                 <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
-                Databases & Infra
+                Databases & Version Control
             </div>
             <div class="tags">
                 <span class="tag">MySQL</span>
@@ -1106,6 +1107,7 @@
                 <span class="tag">Sanctum</span>
                 <span class="tag">Queues</span>
                 <span class="tag">Broadcasting</span>
+                <span class="tag">Debugging</span>
                 <span class="tag">PDF/Excel</span>
             </div>
         </div>
@@ -1120,26 +1122,28 @@
                 <span class="tag">Laravel Reverb</span>
                 <span class="tag">WebSockets</span>
                 <span class="tag">Live Tracking</span>
+                <span class="tag">Notifications</span>
             </div>
         </div>
 
         <div class="skill-card reveal reveal-delay-2">
             <div class="skill-card-title">
                 <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
-                Specialized
+                Specialized Skills
             </div>
             <div class="tags">
                 <span class="tag">CRM / CMS / ERP</span>
                 <span class="tag">AI / OCR</span>
                 <span class="tag">Job Boards</span>
                 <span class="tag">Visa Systems</span>
+                <span class="tag">Next.js</span>
                 <span class="tag">Shopify Liquid</span>
             </div>
         </div>
 
         <div class="skill-card reveal reveal-delay-3">
             <div class="skill-card-title">
-                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="1" y="3" width="15" height="11" rx="1"/><path d="M16 8h4l3 5v3h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
                 DevOps & Infrastructure
             </div>
             <div class="tags">
