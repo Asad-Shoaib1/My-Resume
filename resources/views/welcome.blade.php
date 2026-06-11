@@ -716,6 +716,8 @@
             text-decoration: none;
             color: var(--text);
             transition: all 0.3s ease;
+            overflow: hidden;
+            min-width: 0;
         }
 
         .contact-card:hover {
@@ -737,7 +739,7 @@
         }
 
         .contact-label { font-size: 0.75rem; color: var(--dim); }
-        .contact-value { font-size: 0.9rem; font-weight: 600; color: var(--text); }
+        .contact-value { font-size: 0.9rem; font-weight: 600; color: var(--text); overflow-wrap: break-word; word-break: break-all; min-width: 0; }
 
         /* ── Resume Q&A ── */
         .qa-suggestions {
