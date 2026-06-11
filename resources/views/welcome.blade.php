@@ -1007,7 +1007,7 @@
             <span class="typing-text" id="typingText"></span><span style="color:var(--accent);animation:blink 1s infinite;">|</span>
         </p>
         <p class="hero-desc">
-           Shopify Developer with 3+ years of experience building custom themes, apps, and integrations. I help brands create seamless ecommerce experiences that drive growth and customer loyalty. Let's build something great together!
+           Software Engineer with 3+ years of experience building scalable full-stack applications across logistics, immigration, real estate, and education industries.
         </p>
         <div class="hero-actions">
             <a href="#projects" class="btn btn-primary">
@@ -1555,8 +1555,8 @@
 
     // Typing effect
     const roles = [
-        'Shopify Developer',
-        // 'Laravel Developer',
+        'Software Engineer',
+        'Laravel Developer',
         'Full-Stack Developer',
         'API Architect',
         'React Developer',
