@@ -460,7 +460,7 @@
             <span class="typing-text" id="typingText"></span><span style="color:var(--accent);animation:blink 1s infinite;">|</span>
         </p>
         <p class="hero-desc">
-            Shopify Developer with 3+ years of experience building custom storefronts, themes, and payment integrations — as a freelancer and at Node Agency.
+            Shopify Developer with 3+ years of experience building custom themes, apps, and integrations. Passionate about creating seamless ecommerce experiences that drive growth — worked with startups to established brands across various industries.
         </p>
         <div class="hero-actions">
             <a href="#projects" class="btn btn-primary">
@@ -494,7 +494,7 @@
     </div>
 
     <div class="reveal" style="color: var(--muted); font-size: 1rem; line-height: 1.9; max-width: 720px;">
-        I'm a Shopify Developer specializing in <strong style="color:var(--text)">custom theme development, Liquid templating, React storefronts, and payment integrations</strong>. With 3+ years of experience as a freelancer and at Node Agency, I've built high-converting e-commerce stores from scratch — handling everything from pixel-perfect UI to checkout flows and third-party app integrations.
+        I'm a Shopify Developer with 3+ years of experience specializing in <strong style="color:var(--text)">custom theme development, Liquid templating, front-end development, and third-party API integrations</strong>. I've worked with a diverse range of clients — from startups to established brands — across various industries, building seamless ecommerce experiences that drive growth and customer loyalty. Always eager to take on new challenges and collaborate on innovative projects that make a real impact.
     </div>
 </section>
 
